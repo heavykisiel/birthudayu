@@ -2,15 +2,17 @@
     "questions": [
       {
         "id": 0,
-        "question": "What is 1 + 1?",
-        "options": ["1", "2", "3", "4"],
-        "correctAnswer": "2"
+        "question": "What day did we had 1st message on Boo?",
+        "options": ["12 January", "15 January", "8 January", "18 January"],
+        "correctAnswer": "12 January",
+        "image": "assets/quizzpics/0.jpg"
       },
       {
         "id": 1,
-        "question": "What is 1 + 2?",
-        "options": ["1", "2", "3", "4"],
-        "correctAnswer": "3"
+        "question": "How much I like you",
+        "options": ["much", "Very much", "10/10", "It cannot be described in numbers"],
+        "correctAnswer": "It cannot be described in numbers",
+        "image": "assets/quizzpics/1.jpg"
       },
       {
         "id": 2,
@@ -34,7 +36,7 @@
       },{
         "id": 5,
         "question": "What spell is used for light?",
-        "options": ["Lumos", "Expelliarmus", "3", "5"],
+        "options": ["Lumos", "Expelliarmus", "Expecto Patronum", "Wingardium Leviosa"],
         "correctAnswer": "Lumos",
         "image": "assets/quizzpics/5.webp"
       },{
@@ -53,7 +55,7 @@
       {
         "id": 8,
         "question": "What kind of magical creature is Buckbeak?",
-        "options": ["Phoenix", "Hippogriffon", "3", "Thestral"],
+        "options": ["Phoenix", "Chimaera", "Hippogriff", "Thestral"],
         "correctAnswer": "Hippogriff",
         "image": "assets/quizzpics/8.jpg"
       },
@@ -62,7 +64,7 @@
         "question": "Who is the Half-giant who teaches Care of Magical Creatures at Hogwarts?",
         "options": ["Grawp", "Grawpy", "Gallant", "Grawpulus Rift"],
         "correctAnswer": "Grawp",
-        "image": "assets/quizzpics/9.jpg"
+        "image": "assets/quizzpics/9.webp"
       },{
         "id": 10,
         "question": "What potion is used to return someone to their normal state after being transformed into an animal?",
@@ -74,7 +76,7 @@
         "question": "What house is Luna Lovegood sorted into?",
         "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
         "correctAnswer": "Ravenclaw",
-        "image": "assets/quizzpics/11.png"
+        "image": "assets/quizzpics/11.jpg"
       }
       ,{
         "id": 12,
@@ -92,11 +94,11 @@
       }
       ,{
         "id": 14,
-        "question": "What potion is used to return someone to their normal state after being transformed into an animal?",
-        "options": ["1", "2", "3", "5"],
-        "correctAnswer": "5",
-        "image": "assets/quizzpics/14.jpg"
-      }
+        "question": "Who was the headmaster of Hogwarts before Albus Dumbledore?",
+        "options": ["Phineas Nigellus Black", "Armando Dippet", "Horace Slughorn", "Elphias Doge"],
+        "correctAnswer": "Armando Dippet",
+        "image": "assets/quizzpics/14.webp"
+      }      
       ,{
         "id": 15,
         "question": "What is the core element in Harry Potter's wand?",
@@ -109,78 +111,193 @@
         "question": "Name two founders of the Marauder's Map",
         "options": ["Remus Lupin and Peter Pettigrew", "James Potter and Sirius Black", "Fred Weasley and George Weasley", "Cedric Diggory and Neville Longbottom"],
         "correctAnswer": "James Potter and Sirius Black",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/16.jpg"
       }
       ,{
         "id": 17,
         "question": "What is the function of a Remembrall?",
         "options": ["Grants the user invisibility", "Provides enhanced strength to the user", "Generates fire when thrown", "Glows red when the user forgets something"],
         "correctAnswer": "Glows red when the user forgets something",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/17.jpg"
       }
       ,{
         "id": 18,
         "question": "What does the spell 'Aguamenti' do?",
         "options": ["Creates a shield around the caster", "Summons a Patronus", "Produces water from the tip of the caster's wand", "Teleports the caster to a specific location"],
         "correctAnswer": "Produces water from the tip of the caster's wand",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/18.jpg"
       },
       {
         "id": 19,
         "question": "What does the spell 'Obliviate' do?",
         "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
         "correctAnswer": "Erases memories",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/19.webp"
       },
       {
         "id": 20,
-        "question": "What does the spell 'Obliviate' do?",
-        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
-        "correctAnswer": "Erases memories",
-        "image": "assets/quizzpics/4.jpg"
+        "question": "What is the make and model of Arthur Weasley's flying car?",
+        "options": [
+          "Ford Anglia 105E Deluxe",
+          "Merlin's Flying Machine",
+          "Magical Automobile MK IV",
+          "The Enchanted Ford"
+        ],
+        "correctAnswer": "Ford Anglia 105E Deluxe",
+        "image": "assets/quizzpics/20.png"
       },
       {
         "id": 21,
-        "question": "What does the spell 'Obliviate' do?",
-        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
-        "correctAnswer": "Erases memories",
-        "image": "assets/quizzpics/4.jpg"
+        "question": "Which magical creature's blood grants immense strength to the one who drinks it?",
+        "options": [
+          "Basilisk",
+          "Thestral",
+          "Unicorn",
+          "Acromantula"
+          ],
+        "correctAnswer": "Basilisk",
+        "image": "assets/quizzpics/21.jpg"
       },
       {
         "id": 22,
-        "question": "What does the spell 'Obliviate' do?",
-        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
-        "correctAnswer": "Erases memories",
-        "image": "assets/quizzpics/4.jpg"
+        "question": "What is the name of the plant that Harry Potter uses to breathe underwater during the Triwizard Tournament?",
+        "options": [
+          "Gillyweed",
+          "Mermaid's Moss",
+          "Aquaflora",
+          "Siren Seaweed"
+        ],
+        "correctAnswer": "Gillyweed",
+        "image": "assets/quizzpics/22.jpg"
       },
       {
         "id": 23,
         "question": "What position does Ginny Weasley play on the Gryffindor Quidditch team?",
         "options": ["Keeper", "Seeker", "Chaser", "Beater"],
         "correctAnswer": "Seeker",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/23.png"
       },
       {
         "id": 24,
         "question": "What is the significance of 'Thestrals' in the wizarding world?",
         "options": ["They serve as transportation in the Forbidden Forest.", "They guard the entrance to the Department of Mysteries.", "They are ancient protectors of the Ministry of Magic.", "They are magical creatures that can only be seen by those who have witnessed death."],
         "correctAnswer": "They are magical creatures that can only be seen by those who have witnessed death.",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/24.png"
       },
       {
         "id": 25,
         "question": "Which event marks the start of the Triwizard Tournament?",
         "options": ["The unveiling of the Quidditch World Cup.", "The appearance of the Dark Mark at the Quidditch match.", "The Goblet of Fire chooses the champions from each participating school.", "The arrival of the Durmstrang and Beauxbatons delegations at Hogwarts."],
         "correctAnswer": "The Goblet of Fire chooses the champions from each participating school.",
-        "image": "assets/quizzpics/4.jpg"
+        "image": "assets/quizzpics/25.jpg"
       },
       {
-        "id": 24,
-        "question": "",
-        "options": ["", "", "", ""],
-        "correctAnswer": "",
-        "image": "assets/quizzpics/4.jpg"
+        "id": 26,
+        "question": "What was first anime that you started talking about with Niko?",
+        "options": ["Gurren Lagan", "Full-metal Alchemist", "Naruto", "Haikyuu"],
+        "correctAnswer": "Gurren Lagan",
+        "image": "assets/quizzpics/26.jpg"
+      },
+      {
+        "id": 27,
+        "question": "How many messweges do we have on Boo?",
+        "options": ["1049", "2098", "2791", "932"],
+        "correctAnswer": "1049",
+        "image": "assets/quizzpics/27.webp"
+      },
+      {
+        "id": 28,
+        "question": "What was the first useful app that you mentioned me?",
+        "options": ["BlaBlaCar", "uberEats", "Notion", "Telegram"],
+        "correctAnswer": "Notion",
+        "image": "assets/quizzpics/28.jpg"
+      },
+      {
+        "id": 29,
+        "question": "Why you remind me of Alisha Daniels?",
+        "options": ["cuz, you also fall to Simon", "cuz, you are black", "cuz, you steal my heart everyday", "cuz, you are very attractive"],
+        "correctAnswer": "cuz, you steal my heart everyday",
+        "image": "assets/quizzpics/29.jpg"
+      },
+      {
+        "id": 30,
+        "question": "If I had a powers like Curtis Donovan, I would?",
+        "options": ["Not make myself pregnant", "Create best scenario for us", "Never use my powers to cheat or bertray you", "All of them are valid"],
+        "correctAnswer": "All of them are valid",
+        "image": "assets/quizzpics/30.webp"
+      },
+      {
+        "id": 31,
+        "question": "If I would be like Nathan Young I would?",
+        "options": ["fall for Simon", "Became a gay after kissing you", "Shag you even if you were a grandma", "Try to impress you"],
+        "correctAnswer": "Shag you even if you were a grandma",
+        "image": "assets/quizzpics/31.png"
+      },
+      {
+        "id": 32,
+        "question": "If I had Simon's Bellamy power of invisibility, I would?",
+        "options": ["Be your shadow", "suprise you at the moment you least expect", "Trespass through border control and meet you", "Be your creepy stalker and watching every move you make"],
+        "correctAnswer": "Trespass through border control and meet you",
+        "image": "assets/quizzpics/32.jpg"
+      },
+      {
+        "id": 33,
+        "question": "Why you are like electric storm?",
+        "options": ["You gave me power and you struck me with your beauty", "I like sleeping in thunderstorm", "I like smell of thunder", "All answers are valid"],
+        "correctAnswer": "You gave me power and you struck me with your beauty",
+        "image": "assets/quizzpics/33.webp"
+      },
+      {
+        "id": 34,
+        "question": "If I would be rocket scientist like Kelly, I would",
+        "options": ["be really smart hehe", "Build rocket that wont be detected by air defence and fly to you", "I would at least find a job", "All of them are valid"],
+        "correctAnswer": "All of them are valid",
+        "image": "assets/quizzpics/34.webp"
+      },
+      {
+        "id": 35,
+        "question": "What is the name of the pub in Hogsmeade where students can buy magical items?",
+        "options": ["The Leaky Cauldron", "The Three Broomsticks", "The Hog's Head", "The Cauldron"],
+        "correctAnswer": "The Hog's Head",
+        "image": "assets/quizzpics/35.webp"
       }
+      ,{
+        "id": 36,
+        "question": "If I would be agent Twighlight I would",
+        "options": ["adopt Anya", "as a master of disguise would watch over you from afar", "Be focused on maintaining world peace", "Infiltrate foreign country to make happy family with you"],
+        "correctAnswer": "Infiltrate foreign country to make happy family with you",
+        "image": "assets/quizzpics/36.jpg"
+      },
+      {
+        "id": 37,
+        "question": "If you would be Yor forger",
+        "options": ["you would drink a lot of alkohol", "be killer of my anxieties", "you would be flat cuz 2d characters are flat by nature", "have 2nd life"],
+        "correctAnswer": "be killer of my anxieties",
+        "image": "assets/quizzpics/37.jpg"
+      },
+      {
+        "id": 38,
+        "question": "Are you cute like Anya Forger",
+        "options": ["Yes", "No"],
+        "correctAnswer": "No",
+        "image": "assets/quizzpics/38.jpg"
+      },
+      {
+        "id": 39,
+        "question": "We are kinda like Naruto and Sasuke. Why?",
+        "options": ["Cuz we losing hands for eachother", "We are destinated to fight", "We are best friends", "Our first kiss will be legendary","We are linked and we will meet someday"],
+        "correctAnswer": "We are linked and we will meet someday",
+        "image": "assets/quizzpics/39.webp"
+      },
+      {
+        "id": 40,
+        "question": "Are you Orochimaru?",
+        "options": ["cuz, you have a lot of student that you are bully", "cuz, you have snake obsession", "cuz, I would leave my village just to be your pupil", "cuz, you ve got long tongue"],
+        "correctAnswer": "cuz, I would leave my village just to be your pupil",
+        "image": "assets/quizzpics/40.png"
+      }
+
+      
 
     ]
 }
