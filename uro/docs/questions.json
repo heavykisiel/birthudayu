@@ -1,0 +1,186 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "question": "What is 1 + 1?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": "2"
+      },
+      {
+        "id": 1,
+        "question": "What is 1 + 2?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": "3"
+      },
+      {
+        "id": 2,
+        "question": "The real name of the character who goes by the pseudonym Mad-Eye Moody is ?",
+        "options": ["Barty Crouch Jr.", "Rufus Scrimgeour", "Alastor Moody", "Kingsley Shacklebolt"],
+        "correctAnswer": "Alastor Moody",
+        "image": "assets/quizzpics/2.webp"
+      },
+      {
+        "id": 3,
+        "question": "What year did the Battle of Hogwarts take place?",
+        "options": ["1998", "1997", "2003", "1985"],
+        "correctAnswer": "1998",
+        "image": "assets/quizzpics/3.jpg"
+      },{
+        "id": 4,
+        "question": "What is Niko's favourite fruit",
+        "options": ["Apple", "Mango", "Strawberry", "Orange"],
+        "correctAnswer": "Mango",
+        "image": "assets/quizzpics/4.jpg"
+      },{
+        "id": 5,
+        "question": "What spell is used for light?",
+        "options": ["Lumos", "Expelliarmus", "3", "5"],
+        "correctAnswer": "Lumos",
+        "image": "assets/quizzpics/5.webp"
+      },{
+        "id": 6,
+        "question": "What is the incantation for the summoning charm?",
+        "options": ["Accio", "Expelliarmus", "Nox", "Avada Kedavra"],
+        "correctAnswer": "Accio",
+        "image": "assets/quizzpics/6.jpg"
+      },{
+        "id": 7,
+        "question": "What potion does Professor Snape task his students with making in their first potions lesson?",
+        "options": ["Felix Felicis", "Veritaserum", "Draught of Living Death", "Amortentia"],
+        "correctAnswer": "Draught of Living Death",
+        "image": "assets/quizzpics/7.webp"
+      },
+      {
+        "id": 8,
+        "question": "What kind of magical creature is Buckbeak?",
+        "options": ["Phoenix", "Hippogriffon", "3", "Thestral"],
+        "correctAnswer": "Hippogriff",
+        "image": "assets/quizzpics/8.jpg"
+      },
+      {
+        "id": 9,
+        "question": "Who is the Half-giant who teaches Care of Magical Creatures at Hogwarts?",
+        "options": ["Grawp", "Grawpy", "Gallant", "Grawpulus Rift"],
+        "correctAnswer": "Grawp",
+        "image": "assets/quizzpics/9.jpg"
+      },{
+        "id": 10,
+        "question": "What potion is used to return someone to their normal state after being transformed into an animal?",
+        "options": ["Polyjuice Potion", "Draught of Peace", "Amortentia", "Felix Felicis"],
+        "correctAnswer": "Polyjuice Potion",
+        "image": "assets/quizzpics/10.jpg"
+      },{
+        "id": 11,
+        "question": "What house is Luna Lovegood sorted into?",
+        "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+        "correctAnswer": "Ravenclaw",
+        "image": "assets/quizzpics/11.png"
+      }
+      ,{
+        "id": 12,
+        "question": "What is the name of Hermione Granger's parents?",
+        "options": ["Bellatrix and Severus", "Frank and Alice", "Arthur and Molly", "Not mentioned"],
+        "correctAnswer": "Not mentioned",
+        "image": "assets/quizzpics/12.jpg"
+      }
+      ,{
+        "id": 13,
+        "question": "What is the name of Hagrid's pet dragon",
+        "options": ["Norbert", "Smaug", "Luffy", "Fluffy"],
+        "correctAnswer": "Norbert",
+        "image": "assets/quizzpics/13.jpeg"
+      }
+      ,{
+        "id": 14,
+        "question": "What potion is used to return someone to their normal state after being transformed into an animal?",
+        "options": ["1", "2", "3", "5"],
+        "correctAnswer": "5",
+        "image": "assets/quizzpics/14.jpg"
+      }
+      ,{
+        "id": 15,
+        "question": "What is the core element in Harry Potter's wand?",
+        "options": ["Phoenix Feather", "Dragon Heartstring", "Veela Hair", "Unicorn Tail Hair"],
+        "correctAnswer": "Phoenix Feather",
+        "image": "assets/quizzpics/15.jpg"
+      }
+      ,{
+        "id": 16,
+        "question": "Name two founders of the Marauder's Map",
+        "options": ["Remus Lupin and Peter Pettigrew", "James Potter and Sirius Black", "Fred Weasley and George Weasley", "Cedric Diggory and Neville Longbottom"],
+        "correctAnswer": "James Potter and Sirius Black",
+        "image": "assets/quizzpics/4.jpg"
+      }
+      ,{
+        "id": 17,
+        "question": "What is the function of a Remembrall?",
+        "options": ["Grants the user invisibility", "Provides enhanced strength to the user", "Generates fire when thrown", "Glows red when the user forgets something"],
+        "correctAnswer": "Glows red when the user forgets something",
+        "image": "assets/quizzpics/4.jpg"
+      }
+      ,{
+        "id": 18,
+        "question": "What does the spell 'Aguamenti' do?",
+        "options": ["Creates a shield around the caster", "Summons a Patronus", "Produces water from the tip of the caster's wand", "Teleports the caster to a specific location"],
+        "correctAnswer": "Produces water from the tip of the caster's wand",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 19,
+        "question": "What does the spell 'Obliviate' do?",
+        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
+        "correctAnswer": "Erases memories",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 20,
+        "question": "What does the spell 'Obliviate' do?",
+        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
+        "correctAnswer": "Erases memories",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 21,
+        "question": "What does the spell 'Obliviate' do?",
+        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
+        "correctAnswer": "Erases memories",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 22,
+        "question": "What does the spell 'Obliviate' do?",
+        "options": ["Erases memories", "Creates illusions", "Transfigures objects", "Summons objects from a distance"],
+        "correctAnswer": "Erases memories",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 23,
+        "question": "What position does Ginny Weasley play on the Gryffindor Quidditch team?",
+        "options": ["Keeper", "Seeker", "Chaser", "Beater"],
+        "correctAnswer": "Seeker",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 24,
+        "question": "What is the significance of 'Thestrals' in the wizarding world?",
+        "options": ["They serve as transportation in the Forbidden Forest.", "They guard the entrance to the Department of Mysteries.", "They are ancient protectors of the Ministry of Magic.", "They are magical creatures that can only be seen by those who have witnessed death."],
+        "correctAnswer": "They are magical creatures that can only be seen by those who have witnessed death.",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 25,
+        "question": "Which event marks the start of the Triwizard Tournament?",
+        "options": ["The unveiling of the Quidditch World Cup.", "The appearance of the Dark Mark at the Quidditch match.", "The Goblet of Fire chooses the champions from each participating school.", "The arrival of the Durmstrang and Beauxbatons delegations at Hogwarts."],
+        "correctAnswer": "The Goblet of Fire chooses the champions from each participating school.",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 24,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      }
+
+    ]
+}
