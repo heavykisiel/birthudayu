@@ -175,12 +175,111 @@
         "image": "assets/quizzpics/4.jpg"
       },
       {
+        "id": 26,
+        "question": "What was first anime that you started talking about with Niko?",
+        "options": ["Gurren Lagan", "Full-metal Alchemist", "Naruto", "Haikyuu"],
+        "correctAnswer": "Gurren Lagan",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 27,
+        "question": "How many messweges do we have on Boo?",
+        "options": ["1049", "2098", "2791", "932"],
+        "correctAnswer": "1049",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 28,
+        "question": "What was the first useful app that you mentioned me?",
+        "options": ["BlaBlaCar", "uberEats", "Notion", "Telegram"],
+        "correctAnswer": "Notion",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 29,
+        "question": "Why you remind me of Alisha Daniels?",
+        "options": ["cuz, you also fall to Simon", "cuz, you are black", "cuz, you steal my heart everyday", "cuz, you are very attractive"],
+        "correctAnswer": "cuz, you steal my heart everyday",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "If I had a powers like Curtis Donovan, I would?",
+        "options": ["Not make myself pregnant", "Create best scenario for us", "Never use my powers to cheat or bertray you", "All of them are valid"],
+        "correctAnswer": "All of them are valid",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
         "id": 24,
+        "question": "If I would be like Nathan Young I would?",
+        "options": ["fall for Simon", "Became a gay after kissing you", "Shag you even if you were a grandma", "Try to impress you"],
+        "correctAnswer": "Shag you even if you were a grandma",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "If I had Simon's Bellamy power of invisibility, I would?",
+        "options": ["", "suprise you at the moment you least expect", "", "Be your creepy stalker and watching every move you make"],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "Why you are like electric storm?",
+        "options": ["", "", "", "You gave me power and you struck me with your beauty"],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
+        "question": "",
+        "options": ["", "", "", ""],
+        "correctAnswer": "",
+        "image": "assets/quizzpics/4.jpg"
+      },
+      {
+        "id": 30,
         "question": "",
         "options": ["", "", "", ""],
         "correctAnswer": "",
         "image": "assets/quizzpics/4.jpg"
       }
+      
 
     ]
 }
